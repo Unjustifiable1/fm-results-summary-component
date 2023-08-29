@@ -26,6 +26,16 @@
     --fs-18: 1.125rem;
 }
 
+* {
+    font: inherit;
+    font-family: var(--ff-primary);
+    margin: 0;
+    padding: 0;
+    font-size: var(--fs-16);
+
+    border: 1px solid red;
+}
+
 
 /* attribution */
 .attribution { font-size: 11px; text-align: center; }
