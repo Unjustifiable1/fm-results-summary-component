@@ -1,0 +1,32 @@
+/* custom properties */
+
+:root {
+    --clr-primary-lightRed: hsl(0, 100%, 67%);
+    --clr-primary-orangeyYellow: hsl(39, 100%, 56%);
+    --clr-primary-greenTeal: hsl(166, 100%, 37%);
+    --clr-primary-cobaltBlue: hsl(234, 85%, 45%);
+
+    --clr-gradient-bg-lightSlateBlue: hsl(252, 100%, 67%);
+    --clr-gradient-bg-lightRoyalBlue: hsl(241, 81%, 54%);
+    --clr-gradient-circle-violetBlue: hsla(256, 72%, 46%, 1);
+    --clr-gradient-circle-persianBlue: hsla(241, 72%, 46%, 0);
+
+    --clr-neutral-white: hsl(0, 0%, 100%);
+    --clr-neutral-paleBlue: hsl(221, 100%, 96%);
+    --clr-neutral-lightLavender: hsl(241, 100%, 89%);
+    --clr-neutral-darkGrayBlue: hsl(224, 30%, 27%);
+
+    --ff-primary: 'Hanken Grotesk', sans-serif;
+
+    --fw-medium: 500;
+    --fw-bold: 700;
+    --fw-extraBold: 800;
+
+    --fs-16: 1rem;
+    --fs-18: 1.125rem;
+}
+
+
+/* attribution */
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
